@@ -14,7 +14,7 @@ body{
 #showcase{
     background-image: url('../img/code.jpg');
     height: 100vh;
-    background-size: co;
+    background-size: cover;
     background-position: center;
     display: flex;
     flex-direction: column;
